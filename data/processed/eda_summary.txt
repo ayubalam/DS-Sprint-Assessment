@@ -1,0 +1,27 @@
+Cleaned rows: 170674
+Cleaned columns: 10
+Average rating: 4.060
+Median rating: 5.000
+Missing review texts: 16202
+Flagged long reviews: 573
+
+Rating counts:
+rate
+1    19880
+2     6193
+3    14389
+4    33551
+5    96661
+
+Sentiment counts:
+sentiment
+positive    134699
+negative     26472
+neutral       9503
+
+Rating by sentiment:
+            count  mean  median
+sentiment                      
+negative    26472  1.61     1.0
+neutral      9503  3.28     3.0
+positive   134699  4.60     5.0
