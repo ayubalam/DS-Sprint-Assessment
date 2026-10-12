@@ -1,0 +1,15 @@
+{
+    "algorithm": "TF-IDF + Logistic Regression",
+    "input_features": [
+        "summary",
+        "review"
+    ],
+    "target": "sentiment",
+    "test_size": 0.2,
+    "random_state": 42,
+    "training_records": 136537,
+    "test_records": 34135,
+    "accuracy": 0.894712172257214,
+    "macro_f1": 0.761922110334758,
+    "weighted_f1": 0.907561385465346
+}
